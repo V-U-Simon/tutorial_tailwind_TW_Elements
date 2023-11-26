@@ -1,0 +1,9 @@
+{
+  "name": "te-publish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mdb-cli": "^4.3.1"
+  }
+}
